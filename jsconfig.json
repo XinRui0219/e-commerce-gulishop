@@ -1,4 +1,5 @@
 {
+    //@是一个别名,是一个小名,代表的就是我们的src的路径---webpack中/解析(resolve)中找
     "compilerOptions": {
       "baseUrl": "./",
       "paths": {
